@@ -20,7 +20,7 @@ Dr. Varun Mishra leads a range of innovative projects that focus on advancing di
 
 ## About My Project
 
-Project description goes here.
+The UbiWell Lab has gathered EDA (Electrodermal Activity) and HRV (Heart Rate Variability) data from a diverse group of participants using wearable technology. This project aims to utilize the clinical data collected to examine the adequacy of HRV as an informative measure for specific body conditions, determining instances where it proves to be an equivalent indicator compared to EDA. Additionally, the project seeks to investigate cases where EDA outperforms HRV as a superior indicator for certain conditions. The analysis will involve employing data mining techniques and leveraging single processing capabilities in Python. By undertaking this research, we aim to enhance our understanding of the strengths and limitations of both HRV and EDA in assessing various physiological states.
 
 [My Final Report](files/finalreport.pdf)
 
