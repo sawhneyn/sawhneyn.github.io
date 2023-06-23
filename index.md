@@ -7,8 +7,7 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
-
-My info goes here.
+I am an MSCS Align Student at Northeastern University, excited to embark on a summer 2023 research experience as part of the DREAM program at the UbiWell Lab. With a profound interest in health informatics and a strong background in healthcare, I am eager to merge my two passions and contribute to groundbreaking advancements in this field. My undergraduate degree in biology has equipped me with a solid foundation in life sciences, enabling me to understand the intricacies of healthcare systems and the potential for leveraging technology to drive improvements. Joining the UbiWell Lab aligns perfectly with my aspirations to apply my technical skills and domain knowledge to health informatics. I am thrilled to collaborate with a diverse team of researchers and experts.
 
 ## About My Advisor
 
