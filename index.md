@@ -11,7 +11,11 @@ I am an MSCS Align Student at Northeastern University, excited to embark on a su
 
 ## About My Advisor
 
-Advisor info goes here.
+Dr. Varun Mishra is an esteemed assistant professor at Northeastern University, holding a joint appointment with the Khoury College of Computer Sciences and the Bouvé College of Health Sciences. His research focuses on leveraging ubiquitous technologies to enable effective digital interventions for mental and behavioral health outcomes. Dr. Mishra received his doctorate in computer science from Dartmouth College and conducted postdoctoral research at the Center for Technology and Behavioral Health. 
+
+His research goal is to develop data-driven technologies for digital interventions in mental and behavioral health. He emphasizes accurate sensing and detection of states-of-vulnerability and identifying states-of-receptivity for interventions. Dr. Mishra's methodology involves building data collection tools, applying statistical and machine learning methods, and evaluating solutions through real-world studies.
+
+Notably, Dr. Mishra has made significant contributions in stress detection research. His reproducible methods have shown that commodity devices can perform on par with clinical-grade sensors. By incorporating contextual information alongside physiological signals, Dr. Mishra improves stress detection accuracy. His work emphasizes the importance of delivering interventions at the right time when individuals need support and are receptive to it. Through interdisciplinary collaborations and a commitment to reproducibility, Dr. Mishra strives to advance the field of digital health interventions and contribute to the design and implementation of future mHealth solutions.
 
 ## About My Project
 
