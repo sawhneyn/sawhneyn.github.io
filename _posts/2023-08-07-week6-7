@@ -1,0 +1,12 @@
+---
+layout: post
+title: Week 6-7
+---
+
+Over the course of the past week and a half, my primary focus has been on advancing the classification models for the WESAD dataset, particularly incorporating data from Empatica and RespiBan. This period involved troubleshooting and resolving various bugs that emerged during the development process. My efforts were dedicated to enhancing the accuracy and precision of the classification models, prompting me to explore different classification algorithms. I successfully completed the implementation of all classification models during this timeframe, marking a significant milestone in the project.
+
+Looking ahead, I've reached out to a grad student to collaborate on obtaining clinical data associated with Empatica, BioPac, and Polar datasets. This collaboration is crucial for enhancing the depth and relevance of the project. In the coming week, my main goal is to shift gears toward data processing and building classification models for Empatica, BioPac, and Polar datasets.
+
+As we move into this next phase, combining clinical data from different sources poses both challenges and opportunities. The diverse nature of these datasets requires careful handling in terms of preprocessing and feature extraction. The aim is to create models that can effectively capture the nuances of physiological signals, providing a comprehensive understanding of how different devices capture physiological responses.
+
+Collaborating with the grad student and delving into data processing are key steps forward. This work sets the stage for developing reliable models that can classify physiological states across various datasets and devices. It's an ongoing process, but with these steps, we're working towards a more robust and versatile classification framework.
